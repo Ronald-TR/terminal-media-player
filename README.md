@@ -29,5 +29,8 @@ in absolute video urls, just give the link:
 
     python tmplayer.py url/to/video
 
+## Example
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/slWeKaxrSxI/0.jpg)](https://www.youtube.com/watch?v=slWeKaxrSxI)
 
 In alpha, enjoy!
